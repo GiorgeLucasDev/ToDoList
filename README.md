@@ -11,7 +11,7 @@ This project is a simple web application that allows users to create and manage 
 ## How to run the project 🚀
 
 - Option 1: Clone the repository using Git and open the `index.html` file in your web browser.
-- Option 2: Access the deployed version of the website by clicking on this link: <https://nonulldev.github.io/ToDoList/>
+- Option 2: Access the deployed version of the website by clicking on this link: <https://giorgelucasdev.github.io/ToDoList/>
 
 ## Resources used 🔧
 
